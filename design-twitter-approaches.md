@@ -89,10 +89,30 @@
 
 * Let the system compute 20 additional tweets beforehand each time we load 20 tweets.
 
-* Twitter design
-* Twitter design
+<p align="center">
+	
+<img src="https://user-images.githubusercontent.com/57604500/125806459-41fba76c-ac91-465f-bb74-afd314e40f78.png" width=556>
+<br />
+<h3 align="center">👨🏻‍💻 Twitter Design</h3>
+</p>
+
 ## Scaling the design
 * Let us see our non-functional requirements.
+<p align="center">
+	
+<img src="https://user-images.githubusercontent.com/57604500/125809983-439cc7eb-72da-41c3-85f8-41b03d368470.png" width=556>
+<br />
+<h3 align="center">👨🏻‍💻 No Single point of failure principle 👨🏻‍💻</h3>
+</p>
+
+<br/>
+<p align="center">
+	
+<img src="https://user-images.githubusercontent.com/57604500/125810772-c08cf1c4-be5d-4317-8b72-299504614522.png" width=556>
+<br />
+<h3 align="center">👨🏻‍💻 No Bottleneck principle 👨🏻‍💻</h3>
+</p>
+
 
 * Service should be highly available – We should be always able to access twitter website, read the feed and post tweets. High availability can be achieved by no single point of failure principle.
 
