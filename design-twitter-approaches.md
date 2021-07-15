@@ -105,6 +105,15 @@
 <h3 align="center">👨🏻‍💻 No Single point of failure principle 👨🏻‍💻</h3>
 </p>
 
+<br/>
+<p align="center">
+	
+<img src="https://user-images.githubusercontent.com/57604500/125810772-c08cf1c4-be5d-4317-8b72-299504614522.png" width=556>
+<br />
+<h3 align="center">👨🏻‍💻 No Bottleneck principle 👨🏻‍💻</h3>
+</p>
+
+
 * Service should be highly available – We should be always able to access twitter website, read the feed and post tweets. High availability can be achieved by no single point of failure principle.
 
 * Service should be reliable – there should be no data loss. Once you post a tweet successfully it shouldn’t be lost. This can be achieved by saving redundant copies of data.
