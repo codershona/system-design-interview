@@ -55,24 +55,24 @@
 ## High level design
 * We can consider twitter as an extension of the reader/writer design problem.
 
-## Challenge :
+#### Challenge :
 
 * Suppose a user follows 500 people out of which 200 tweet daily. What are the different ways to populate the user’s timeline.
 
-## Solution :
+#### Solution :
 
 * Populate based on the tweet’s creation time.
 * Use some recommendation system which is based on some parameters which suggest the top 20 tweets for the user.
-## Challenge :
+#### Challenge :
 
 * Our solution works perfectly fine for normal users. 
 * But for celebrity users we have a problem. They have millions of followers.
 
-## Solution :
+#### Solution :
 
 * Pregenerate the feed of only normal followers.
 
-## Challenge :
+#### Challenge :
 
 ### How to refresh the feed?
 
