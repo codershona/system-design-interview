@@ -98,6 +98,12 @@
 
 ## Scaling the design
 * Let us see our non-functional requirements.
+<p align="center">
+	
+<img src="https://user-images.githubusercontent.com/57604500/125809983-439cc7eb-72da-41c3-85f8-41b03d368470.png" width=556>
+<br />
+<h3 align="center">👨🏻‍💻 No Single point of failure principle 👨🏻‍💻</h3>
+</p>
 
 * Service should be highly available – We should be always able to access twitter website, read the feed and post tweets. High availability can be achieved by no single point of failure principle.
 
