@@ -89,8 +89,13 @@
 
 * Let the system compute 20 additional tweets beforehand each time we load 20 tweets.
 
-* Twitter design
-* Twitter design
+<p align="center">
+	
+<img src="https://user-images.githubusercontent.com/57604500/125806459-41fba76c-ac91-465f-bb74-afd314e40f78.png" width=556>
+<br />
+<h3 align="center">👨🏻‍💻 Twitter Design</h3>
+</p>
+
 ## Scaling the design
 * Let us see our non-functional requirements.
 
