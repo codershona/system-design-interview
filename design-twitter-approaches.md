@@ -1,7 +1,10 @@
 # Design A Twitter or Any Social Media like(Facebook, Instagram, Snapchat)
 
 ## Introduction
-* Twitter is an online microblogging and social media platform where people post and interact with messages called as tweets. Registered users can post, like, and retweet tweets, but unregistered users can only read them.
+* Twitter is a kind of platform where users can do microblogging in this social media by posting and interacting via messages that is known as tweets. 
+* The users needs to register to post their status, like comments and retweet the tweets.
+* On the other hand, Unregistered users are unable to read , make comments and like other users posts , in this case they can only view and read those posts. 
+* This social media platform has a character limitation such as a it has maximum 140 characters limitation.
 
 ## Requirement analysis 
 ### Functional requirements
