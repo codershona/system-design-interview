@@ -32,6 +32,9 @@
  * Json populateFeed(userId)
  * boolean follow(followId)
 
+<b> Explanation:</b>
+Here I am going to define this apis. 
+
 ## Define data model
 * User : userId(PK), name, email, creationDate, lastLogin
 * Tweet : tweetId(PK), data, location, creationDate
