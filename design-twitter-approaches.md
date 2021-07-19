@@ -34,11 +34,19 @@
 
 <b> Explanation:</b>
 Here I am going to define this apis. 
+* Tweet APIS return params userID and tweetText and an alternativeparam location which returns a boolean. and this tweet api used for to post a tweet and returns a value that it going to explain even if the posts is succesfully post did or not. This actually implement the basic api to twwet texts.
+
+* populateFeed returns the params in userId which returns a JSON. It is the way which gives the value of populate the timeline data of the user. It returns the json containing the tweet data.
+
+* follow takes a param followId which returns a boolean. The follow apis sends to a follow request to the account the followId. This can also returns a boolean to display whether we can follow the request which has been sent successfully. 
 
 ## Define data model
 * User : userId(PK), name, email, creationDate, lastLogin
 * Tweet : tweetId(PK), data, location, creationDate
 * Follow : userId1, userId2
+
+<b> Explanation:</b>
+We are going to do a simple design to store the data. We also require to save user and tweet data. 
 
 #### Which database to use?
 
