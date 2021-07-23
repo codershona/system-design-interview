@@ -5,7 +5,13 @@
 
 * Web crawler or spider or spiderbot is an internet bot which crawls the webpages mainly for the purpose of indexing. A distributed web crawler typically employs several machines to perform crawling. One of the most famous distributed web crawler is Google’s web crawler which indexes all the web pages on the internet.
 
+Web crawlers are also famously used in business analytics where a company crawls the website of its competitors. 
+
+Example, Flipkart an e-commerce website might crawl Amazon its main competitor and vice versa to determine the range of products and its pricing. 
+
 ## Requirement analysis
+
+Software for example, Scrapy. 
 ### Functional requirements
 
 * Crawl only HTML pages
